@@ -1,0 +1,7 @@
+.label-login-default {
+  color: #4d4d4d;
+  display: flex;
+  justify-content: flex-start;
+  margin: 0 0 0 10px;
+  width: 100%;
+}

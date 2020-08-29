@@ -1,0 +1,8 @@
+input:focus,
+button:focus {
+  outline: 0;
+}
+
+.bg-default {
+  background: #0f4c75;
+}

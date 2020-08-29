@@ -1,0 +1,30 @@
+.input-login-default {
+  align-items: center;
+  border: 1px solid #c9c9c9;
+  border-radius: 25px;
+  display: flex;
+  height: 45px;
+  margin-bottom: 15px;
+  text-indent: 10px;
+  width: 100%;
+}
+
+.input-login-error {
+  align-items: center;
+  background: #ffdbc5;
+  border: 1px solid #e97171;
+  border-radius: 25px;
+  color: #810000;
+  display: flex;
+  height: 45px;
+  text-indent: 10px;
+  width: 100%;
+}
+
+.label-error {
+  display: flex;
+  font-size: 14px;
+  justify-content: flex-start;
+  margin: 0 0 0 35px;
+  width: 100%;
+}
